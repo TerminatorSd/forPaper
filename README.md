@@ -1,2 +1,2 @@
 # forPaper
-For papers.
+Paper of GAN and Image Inpainting.
